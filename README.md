@@ -1,4 +1,5 @@
-# 💫 Hi 👋, I'm Simran Choubey
+
+# 💫 Hi 👋☺️, I'm Simran Choubey
 
 **A passionate Computer Science Student || Software Developer || DSA Enthusiast from India 🇮🇳**
 
